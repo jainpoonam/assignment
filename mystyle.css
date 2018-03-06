@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    color: LightSeaGreen ;
+    margin-left: 20px;
+	 
+	 padding-top: 70px;
+	 text-transform: uppercase;
+}
+td
+{
+	color: green;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-style: bold;
+	font-size: 20px;
+	padding-top: 20px;
+	
+}
